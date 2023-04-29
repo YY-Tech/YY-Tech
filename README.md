@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=YeYoung-Kwak&fontSize=55&animation=fadeIn&fontAlignY=40&desc=GitHub&descAlignY=56&descAlign=62)
 
-### 반갑습니다👋 융힙기술을 꿈꾸는 곽예영 입니다😄
+### 반갑습니다👋 융힙기술을 꿈꾸는 곽예영 입니다 😄
 
 ***
 
@@ -9,18 +9,18 @@
 - 스트론 (2022.01.03 ~ 2022.09.17)
 
 
-## 🎓학력
+## 🎓 학력
 - 대구공업고등학교 (전자기계과)
 - 영남이공대학교 (기계계열)
 - 영진직업전문학교 (빅데이터 과정 수료)
 
 
-## 🏆수상
+## 🏆 수상
 - 개근상은 기본으로 가지고 있습니다. 항상 성실함이 생명이라 생각합니다!!
 - 영남이공대학교 전학기 성적우수상(학점 4.5), 수석 졸업
 
 
-## 🪪자격증
+## 🪪 자격증
 - 전산응용기계제도기능사
 - 컴퓨터응용밀링기능사
 - 컴퓨터응용선반기능사
